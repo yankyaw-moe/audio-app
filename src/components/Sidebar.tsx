@@ -24,6 +24,7 @@ export default function Sidebar() {
         height: "100vh",
         padding: 2,
         borderRight: "1px solid #eaeaea",
+        // borderRadius: "0 0 0 40px",
       }}
     >
       <Box sx={{ display: "flex", alignItems: "center", mb: 4 }}>
